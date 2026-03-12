@@ -1,0 +1,3417 @@
+{
+  "generatedAt": "2026-03-12T14:11:54Z",
+  "count": 379,
+  "assets": [
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/07/Generic_traveller.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_traveller-d0ded6e7f5.png",
+      "contentType": "image/png",
+      "sizeBytes": 105049,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/bd/Generic_minion.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_minion-23c3efe2fc.png",
+      "contentType": "image/png",
+      "sizeBytes": 104190,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/1b/Generic_loric.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_loric-2d30db60b6.png",
+      "contentType": "image/png",
+      "sizeBytes": 121565,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a1/Logo_trouble_brewing.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Logo_trouble_brewing-a379d3a2c2.png",
+      "contentType": "image/png",
+      "sizeBytes": 238719,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/53/Generic_outsider.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_outsider-563466316a.png",
+      "contentType": "image/png",
+      "sizeBytes": 105040,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/12/Generic_townsfolk.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_townsfolk-8b413d1cca.png",
+      "contentType": "image/png",
+      "sizeBytes": 116525,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/52/Generic_demon.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_demon-785cdf7f55.png",
+      "contentType": "image/png",
+      "sizeBytes": 89783,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/43/Logo_sects_and_violets.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Logo_sects_and_violets-218a063483.png",
+      "contentType": "image/png",
+      "sizeBytes": 194897,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/skins/pivot/assets/images/logo.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/logo-a80e7aa9c2.png",
+      "contentType": "image/png",
+      "sizeBytes": 15068,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c9/Generic_fabled.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Generic_fabled-4a94f7639c.png",
+      "contentType": "image/png",
+      "sizeBytes": 111899,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/10/Logo_bad_moon_rising.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Logo_bad_moon_rising-0e601f1bf5.png",
+      "contentType": "image/png",
+      "sizeBytes": 217999,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Game_Brain_pod_logo.avif?v=1760550792&width=100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Game_Brain_pod_logo-c7c67eae48.avif",
+      "contentType": "image/jpeg",
+      "sizeBytes": 6094,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/f244d7_3bbaa8ccf6c34fc1a8bdf22e2ef589ad_mv2_jpg.jpg?v=1758005040&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/f244d7_3bbaa8ccf6c34fc1a8bdf22e2ef589ad_mv2_jpg-a5fb8aaa67.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 54337,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_4.webp?v=1760552858&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_4-aad7f20c3d.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 121832,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_3.webp?v=1760552857&width=150",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_3-ce9d8c9727.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 8756,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/purple-bg-with-edge_3_73bd7f13-78d8-4fa7-869a-e4dff9bc6fd8.webp?v=1759839777&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/purple-bg-with-edge_3_73bd7f13-78d8-4fa7-869a-e4dff9bc6fd8-a9e879a50f.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1028504,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/f244d7_5be171a39b464f76aaef2851945af413_mv2_jpg.jpg?v=1758005046&width=3000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/f244d7_5be171a39b464f76aaef2851945af413_mv2_jpg-9b52b733d3.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 55035,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_10.jpg?v=1760568068&width=3000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_10-928d3739ed.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 270108,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_6_png.png?v=1758608119&width=100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_6_png-6fcec202a0.png",
+      "contentType": "image/png",
+      "sizeBytes": 12195,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/f244d7_996418e29e47493b89961ee96bd3a793_mv2_png.jpg?v=1758005050&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/f244d7_996418e29e47493b89961ee96bd3a793_mv2_png-213fa3944c.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 57739,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/no_pun_included_logo.avif?v=1760549226&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/no_pun_included_logo-00f67cea54.avif",
+      "contentType": "image/jpeg",
+      "sizeBytes": 7822,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Wargamer_logo.avif?v=1760550455&width=2750",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Wargamer_logo-f7b565db94.avif",
+      "contentType": "image/jpeg",
+      "sizeBytes": 4833,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_1.webp?v=1760552858&width=2500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_1-bc93d8b896.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 126999,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Meeple_Mountain_logo.png?v=1760549608&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Meeple_Mountain_logo-62c061291d.png",
+      "contentType": "image/png",
+      "sizeBytes": 2601,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Tabletop_Gaming_Magazine_Logo.jpg?v=1760550182&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Tabletop_Gaming_Magazine_Logo-8263053695.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 5947,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_2.webp?v=1760552858&width=400",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_2-8d46e2d338.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 43770,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Ellipse_122_1__png.png?v=1758007801&width=1250",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Ellipse_122_1__png-67fd917ccb.png",
+      "contentType": "image/png",
+      "sizeBytes": 23002,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/custom_script_img.png?crop=center&height=200&v=1761065984&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/custom_script_img-af76494195.png",
+      "contentType": "image/png",
+      "sizeBytes": 96449,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/NRB_logo.jpg?v=1760550714&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/NRB_logo-14b7ac0691.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 13959,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_4_png.png?v=1758608118&width=3000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_4_png-afd4ca2558.png",
+      "contentType": "image/png",
+      "sizeBytes": 44869,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_5.webp?v=1760552857&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_5-65bccd0015.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 111438,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Dicbreaker_logo.avif?v=1760551352&width=300",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Dicbreaker_logo-bef5d9eedf.avif",
+      "contentType": "image/jpeg",
+      "sizeBytes": 3040,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_6.webp?v=1760552858&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_6-e66b0a9f5e.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 129977,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/GOS_stain_e1a4af11-6e87-49db-8438-173f28422eb6.png?crop=center&height=200&v=1761692999&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/GOS_stain_e1a4af11-6e87-49db-8438-173f28422eb6-876c47d7ea.png",
+      "contentType": "image/png",
+      "sizeBytes": 101529,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_png.png?v=1758608119&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_png-953b906a7d.png",
+      "contentType": "image/png",
+      "sizeBytes": 64615,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Purple_background_top_png.png?v=1757933005&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Purple_background_top_png-b554e8641a.png",
+      "contentType": "image/png",
+      "sizeBytes": 1355446,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_2_png.png?v=1758608118&width=1750",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_2_png-20e4deacd0.png",
+      "contentType": "image/png",
+      "sizeBytes": 44257,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Layer_2_png.png?v=1758000871&width=832",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Layer_2_png-8de2487d36.png",
+      "contentType": "image/png",
+      "sizeBytes": 631074,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42636.png?v=1758001637&width=220",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42636-88e521cc25.png",
+      "contentType": "image/png",
+      "sizeBytes": 86254,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_reel_7.webp?v=1760552858&width=75",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_reel_7-977f995088.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 4291,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TB_Cutout_-_Branch_E_1_png.png?v=1757929832&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TB_Cutout_-_Branch_E_1_png-74ae0b125f.png",
+      "contentType": "image/png",
+      "sizeBytes": 58998,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Mask_group.png_1.webp?v=1758096624&width=1600",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Mask_group-png_1-4fc06f9cd1.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 84200,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/hero_bg-min.jpg?v=1759472649&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/hero_bg-min-ec2dcc9570.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 52205,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Ellipse_122_png.png?v=1758007761&width=2250",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Ellipse_122_png-ac20186343.png",
+      "contentType": "image/png",
+      "sizeBytes": 14092,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Layer_3.png_1.webp?v=1758001010&width=3840",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Layer_3-png_1-d338b84357.webp",
+      "contentType": "image/png",
+      "sizeBytes": 3372949,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/2BloodLogo_1.png?v=1757915416&width=600",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/2BloodLogo_1-96c8bb3282.png",
+      "contentType": "image/png",
+      "sizeBytes": 68627,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Sand_background_1.png_1.webp?v=1758106887&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Sand_background_1-png_1-dc73535dff.webp",
+      "contentType": "image/png",
+      "sizeBytes": 748975,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/logo_3.png?v=1757942639&width=330",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/logo_3-8ddf4a2abd.png",
+      "contentType": "image/png",
+      "sizeBytes": 43011,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_GOS_Cutout_-_Branch_D_1_png.png?v=1757929832&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_GOS_Cutout_-_Branch_D_1_png-50d9a4d789.png",
+      "contentType": "image/png",
+      "sizeBytes": 79695,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Toprow.jpg?v=1688887898&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Toprow-3dec46130f.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 14142,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_1_png.png?v=1758608119&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_1_png-1b8bbafac8.png",
+      "contentType": "image/png",
+      "sizeBytes": 39768,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_5_png.png?v=1758608118&width=3200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_5_png-13c94b1561.png",
+      "contentType": "image/png",
+      "sizeBytes": 67034,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Rectangle_32.webp?v=1758107826&width=1600",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Rectangle_32-7fa88bc05d.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 216238,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/awards_bg.png?v=1758608119&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/awards_bg-e27f3c3439.png",
+      "contentType": "image/png",
+      "sizeBytes": 62279,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_splashpage_djinn_1_png.png?v=1757932963&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_splashpage_djinn_1_png-ba6c944234.png",
+      "contentType": "image/png",
+      "sizeBytes": 769224,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/GSOE_stain_4eb695f5-7473-44a8-bfb6-4930b2506872.png?crop=center&height=200&v=1761692998&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/GSOE_stain_4eb695f5-7473-44a8-bfb6-4930b2506872-9a8f3a67df.png",
+      "contentType": "image/png",
+      "sizeBytes": 95915,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Layer_3_png.webp?v=1758107032&width=1600",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Layer_3_png-a1e9e0e0b3.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1203034,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "http://bloodontheclocktower.com/cdn/shop/files/F1_Grimoire_Front_Spine.jpg?v=1637184815",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/F1_Grimoire_Front_Spine-cd397cd393.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 2573288,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42665.webp?v=1759906733&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42665-a9a9ffa1ac.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1299753,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/TB_JVF_stain_06_1_2.webp?v=1759212641&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/TB_JVF_stain_06_1_2-ecf6964603.webp",
+      "contentType": "image/png",
+      "sizeBytes": 296965,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_BMR_Cutout_-_Branch_Grey_C_1_png.png?v=1758001642&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_BMR_Cutout_-_Branch_Grey_C_1_png-d088e6ea7f.png",
+      "contentType": "image/png",
+      "sizeBytes": 77358,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TB_Cutout_-_Feather_D_1_png.png?v=1757933951&width=1600",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TB_Cutout_-_Feather_D_1_png-91f2530a4c.png",
+      "contentType": "image/png",
+      "sizeBytes": 21710,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TB_Cutout_-_Branch_D_1_png_453823d2-64e9-42b8-bad7-380316ef2fd8.png?v=1758538217&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TB_Cutout_-_Branch_D_1_png_453823d2-64-11aaff8e78.png",
+      "contentType": "image/png",
+      "sizeBytes": 11434,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/world_cup_1.png?crop=center&height=200&v=1743059537&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/world_cup_1-e9ae25e6fe.png",
+      "contentType": "image/png",
+      "sizeBytes": 92223,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/casket_with_text_white.svg?v=1761310647&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/casket_with_text_white-c9abc79eb6.svg",
+      "contentType": "image/svg+xml",
+      "sizeBytes": 16389,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3j_-_S_V_Cutout_-_John_A_1_png.png?v=1757929832&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3j_-_S_V_Cutout_-_John_A_1_png-85a18e38d8.png",
+      "contentType": "image/png",
+      "sizeBytes": 217730,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/bg_banner.webp?v=1758183139&width=1920",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/bg_banner-76614cb48f.webp",
+      "contentType": "image/png",
+      "sizeBytes": 914432,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42637_1.png?v=1758009797&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42637_1-66f2dd2444.png",
+      "contentType": "image/png",
+      "sizeBytes": 3286,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42641.png?v=1758702112&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42641-60f8ad67ef.png",
+      "contentType": "image/png",
+      "sizeBytes": 26118,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42640.png?v=1758702110&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42640-91ec0e9332.png",
+      "contentType": "image/png",
+      "sizeBytes": 26259,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Component_2_1.svg?v=1757919480&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Component_2_1-8567c21b77.svg",
+      "contentType": "image/svg+xml",
+      "sizeBytes": 52571,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Sand_background_1_png.png?v=1758014874&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Sand_background_1_png-1d152316cc.png",
+      "contentType": "image/png",
+      "sizeBytes": 1283082,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/pattern-bg.png?v=1758181622&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/pattern-bg-0ff3886d0c.png",
+      "contentType": "image/png",
+      "sizeBytes": 1038516,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/2BloodLogo_2_1.png?v=1758698292&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/2BloodLogo_2_1-901ac8ac3e.png",
+      "contentType": "image/png",
+      "sizeBytes": 556798,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/testimonial-block-bg.png?v=1758626940&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/testimonial-block-bg-2f2fccd322.png",
+      "contentType": "image/png",
+      "sizeBytes": 74508,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TB_Cutout_-_Branch_C_1_png.png?v=1757929832&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TB_Cutout_-_Branch_C_1_png-1302e66a7b.png",
+      "contentType": "image/png",
+      "sizeBytes": 49882,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_clocktower_1.png_1.png?v=1757929832&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_clocktower_1-png_1-3ebc692204.png",
+      "contentType": "image/png",
+      "sizeBytes": 531453,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TB_Cutout_-_Branch_F_1_png.png?v=1758001643&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TB_Cutout_-_Branch_F_1_png-51649d71c2.png",
+      "contentType": "image/png",
+      "sizeBytes": 67578,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TGSOE_Cutout_-_Rock_1_png.png?v=1758001641&width=120",
+      "pageUrl": "https://bloodontheclocktower.com/",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TGSOE_Cutout_-_Rock_1_png-239becfa24.png",
+      "contentType": "image/png",
+      "sizeBytes": 28076,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/lycanthrope_7b994104-8250-4ed2-826b-b27c777b49ae.png?v=1762273544&width=1750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/lycanthrope_7b994104-8250-4ed2-826b-b27c777b49ae-45cb5a993f.png",
+      "contentType": "image/png",
+      "sizeBytes": 30754,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Vector.webp?v=1759754598&width=3840",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Vector-6b6e611b62.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 311585,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42657.webp?v=1759825181&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42657-2a6a5297c4.webp",
+      "contentType": "image/png",
+      "sizeBytes": 4717449,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Tea_Lady_SOTM.png?v=1772565428&width=3000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Tea_Lady_SOTM-193644dbd5.png",
+      "contentType": "image/png",
+      "sizeBytes": 197063,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/spiritofivory.png?v=1762254063&width=300",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/spiritofivory-b47843911c.png",
+      "contentType": "image/png",
+      "sizeBytes": 48926,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Damsel_Website.png?v=1762260178&width=2750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Damsel_Website-5708859ac0.png",
+      "contentType": "image/png",
+      "sizeBytes": 85995,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/grandmother.png?v=1762271912&width=300",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/grandmother-4b330ed7f5.png",
+      "contentType": "image/png",
+      "sizeBytes": 37816,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/4_-_Leviathand.webp?v=1759817530&width=150",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/4_-_Leviathand-c4458db7df.webp",
+      "contentType": "image/png",
+      "sizeBytes": 30180,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/4_-_Scarlet_Womand.webp?v=1759817530&width=400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/4_-_Scarlet_Womand-5f207deed6.webp",
+      "contentType": "image/png",
+      "sizeBytes": 35151,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Vector_6.webp?v=1760099483&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Vector_6-0c061df1e7.webp",
+      "contentType": "image/png",
+      "sizeBytes": 2121447,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/summoner.png?v=1762260147&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/summoner-b8c15b2c91.png",
+      "contentType": "image/png",
+      "sizeBytes": 62865,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Rectangle_37.webp?v=1760099664&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Rectangle_37-2e6d161b56.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 628100,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42598.webp?v=1759821097&width=280",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42598-cb85146fab.webp",
+      "contentType": "image/png",
+      "sizeBytes": 75337,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Frame_366.jpg?v=1759818361&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Frame_366-2519d7fe66.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 35844,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Rectangle_32_1789c86a-05e4-4f63-8cf2-edfe30249706.webp?v=1759819616&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/custom-scripts",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Rectangle_32_1789c86a-05e4-4f63-8cf2-edfe30249706-0c1ba46b7e.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 302500,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/bc/Icon_klutz.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_klutz-24010f46bb.png",
+      "contentType": "image/png",
+      "sizeBytes": 155323,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6b/Icon_pithag.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_pithag-fadb5dfc94.png",
+      "contentType": "image/png",
+      "sizeBytes": 201967,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_towncrier.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_towncrier-e7b4d5d695.png",
+      "contentType": "image/png",
+      "sizeBytes": 143935,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/ac/Icon_flowergirl.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_flowergirl-3c893c1971.png",
+      "contentType": "image/png",
+      "sizeBytes": 115244,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_dreamer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_dreamer-cb17ca4e76.png",
+      "contentType": "image/png",
+      "sizeBytes": 147278,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/3/3d/Icon_clockmaker.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_clockmaker-34b1a40ce2.png",
+      "contentType": "image/png",
+      "sizeBytes": 181416,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_vigormortis.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_vigormortis-86b71216c0.png",
+      "contentType": "image/png",
+      "sizeBytes": 124748,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/2e/Icon_mutant.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_mutant-758010b936.png",
+      "contentType": "image/png",
+      "sizeBytes": 155129,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/5d/Icon_philosopher.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_philosopher-0128aa0f74.png",
+      "contentType": "image/png",
+      "sizeBytes": 116237,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/53/Icon_seamstress.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_seamstress-608bae22f3.png",
+      "contentType": "image/png",
+      "sizeBytes": 157604,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/bb/Icon_oracle.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_oracle-3fba880b98.png",
+      "contentType": "image/png",
+      "sizeBytes": 124036,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_snakecharmer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_snakecharmer-43572fdba2.png",
+      "contentType": "image/png",
+      "sizeBytes": 140577,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/45/Icon_cerenovus.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_cerenovus-f388d79e79.png",
+      "contentType": "image/png",
+      "sizeBytes": 180972,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/7b/Icon_witch.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_witch-3a425d2021.png",
+      "contentType": "image/png",
+      "sizeBytes": 145382,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_barber.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_barber-14852e9a30.png",
+      "contentType": "image/png",
+      "sizeBytes": 98706,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/89/Icon_vortox.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_vortox-8de40d7a89.png",
+      "contentType": "image/png",
+      "sizeBytes": 141425,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/0e/Icon_fanggu.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fanggu-8b070db450.png",
+      "contentType": "image/png",
+      "sizeBytes": 180878,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_sweetheart-ee345882ab.png",
+      "contentType": "image/png",
+      "sizeBytes": 150101,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/eb/Icon_nodashii.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_nodashii-7c4c8ed22c.png",
+      "contentType": "image/png",
+      "sizeBytes": 176875,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/f4/Icon_eviltwin.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_eviltwin-6a53d65053.png",
+      "contentType": "image/png",
+      "sizeBytes": 139359,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/f1/Icon_mathematician.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_mathematician-edb3545a67.png",
+      "contentType": "image/png",
+      "sizeBytes": 151892,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a0/Icon_sage.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_sage-813693d8b4.png",
+      "contentType": "image/png",
+      "sizeBytes": 112418,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_artist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_artist-f9717975a1.png",
+      "contentType": "image/png",
+      "sizeBytes": 117161,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/42/Icon_juggler.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_juggler-6a2b944c32.png",
+      "contentType": "image/png",
+      "sizeBytes": 135287,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_savant.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_savant-f4454c5266.png",
+      "contentType": "image/png",
+      "sizeBytes": 148450,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/71/Icon_bishop.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_bishop-62f2cf3ea4.png",
+      "contentType": "image/png",
+      "sizeBytes": 146463,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_voudon.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_voudon-775976baa7.png",
+      "contentType": "image/png",
+      "sizeBytes": 185443,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d7/Icon_cacklejack.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_cacklejack-bda7db769b.png",
+      "contentType": "image/png",
+      "sizeBytes": 227287,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e3/Icon_butcher.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_butcher-97c571b7dd.png",
+      "contentType": "image/png",
+      "sizeBytes": 137046,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a5/Icon_gangster.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_gangster-40f93ca37f.png",
+      "contentType": "image/png",
+      "sizeBytes": 155386,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_harlot.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_harlot-360e5f637d.png",
+      "contentType": "image/png",
+      "sizeBytes": 157634,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_bureaucrat.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_bureaucrat-e76a355002.png",
+      "contentType": "image/png",
+      "sizeBytes": 179107,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e3/Icon_beggar.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_beggar-67e5b12165.png",
+      "contentType": "image/png",
+      "sizeBytes": 173670,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a5/Icon_deviant.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_deviant-1ebc4a2f27.png",
+      "contentType": "image/png",
+      "sizeBytes": 128622,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/03/Icon_apprentice.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_apprentice-a98230e817.png",
+      "contentType": "image/png",
+      "sizeBytes": 149705,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/24/Icon_barista.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_barista-0c4c64139e.png",
+      "contentType": "image/png",
+      "sizeBytes": 140224,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/21/Icon_matron.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_matron-616dbe0597.png",
+      "contentType": "image/png",
+      "sizeBytes": 107343,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/3/3a/Icon_scapegoat.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_scapegoat-10e1aa539b.png",
+      "contentType": "image/png",
+      "sizeBytes": 163344,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_gnome.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_gnome-b3e63456cc.png",
+      "contentType": "image/png",
+      "sizeBytes": 223064,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/77/Icon_thief.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_thief-dbc81ce19d.png",
+      "contentType": "image/png",
+      "sizeBytes": 163046,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/59/Icon_judge.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_judge-0fc7788234.png",
+      "contentType": "image/png",
+      "sizeBytes": 134488,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/1c/Icon_gunslinger.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_gunslinger-cf9cafb14e.png",
+      "contentType": "image/png",
+      "sizeBytes": 124368,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/9e/Icon_bonecollector.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Travellers",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_bonecollector-7c6fa047fa.png",
+      "contentType": "image/png",
+      "sizeBytes": 174171,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_zenomancer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_zenomancer-1089d04215.png",
+      "contentType": "image/png",
+      "sizeBytes": 248443,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/09/Icon_ventriloquist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_ventriloquist-c5ae4e2124.png",
+      "contentType": "image/png",
+      "sizeBytes": 254803,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_stormcatcher.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_stormcatcher-2ef29778ff.png",
+      "contentType": "image/png",
+      "sizeBytes": 233145,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_bootlegger.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_bootlegger-7ea93175fc.png",
+      "contentType": "image/png",
+      "sizeBytes": 255176,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/14/Icon_pope.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_pope-0a6f49978b.png",
+      "contentType": "image/png",
+      "sizeBytes": 280117,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_big_wig.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_big_wig-36ad981a27.png",
+      "contentType": "image/png",
+      "sizeBytes": 265095,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/5c/Icon_gardener.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_gardener-47c6aa17aa.png",
+      "contentType": "image/png",
+      "sizeBytes": 151455,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/61/Icon_tor.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_tor-7711e77c65.png",
+      "contentType": "image/png",
+      "sizeBytes": 198826,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/69/Icon_hindu.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Loric",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_hindu-531f3c3e16.png",
+      "contentType": "image/png",
+      "sizeBytes": 234771,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/5c/Icon_imp.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_imp-32541f1a31.png",
+      "contentType": "image/png",
+      "sizeBytes": 151986,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_chef.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_chef-f4c61f4d58.png",
+      "contentType": "image/png",
+      "sizeBytes": 165143,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/85/Icon_washerwoman.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_washerwoman-8b3da2bef1.png",
+      "contentType": "image/png",
+      "sizeBytes": 115775,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_butler.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_butler-08259e3c43.png",
+      "contentType": "image/png",
+      "sizeBytes": 156373,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/ad/Icon_investigator.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_investigator-3bc3af9bb4.png",
+      "contentType": "image/png",
+      "sizeBytes": 124135,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_poisoner-fd3059039e.png",
+      "contentType": "image/png",
+      "sizeBytes": 114513,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/05/Icon_undertaker.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_undertaker-682bf687ee.png",
+      "contentType": "image/png",
+      "sizeBytes": 90692,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_spy.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_spy-ccf4881c6d.png",
+      "contentType": "image/png",
+      "sizeBytes": 169371,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_virgin.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_virgin-3028b766ea.png",
+      "contentType": "image/png",
+      "sizeBytes": 169049,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_mayor.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_mayor-37b17a5ea8.png",
+      "contentType": "image/png",
+      "sizeBytes": 120684,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_soldier.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_soldier-24861d6fd8.png",
+      "contentType": "image/png",
+      "sizeBytes": 160962,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/7c/Icon_monk.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_monk-0e97ff394c.png",
+      "contentType": "image/png",
+      "sizeBytes": 137320,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_recluse.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_recluse-cb8872b97c.png",
+      "contentType": "image/png",
+      "sizeBytes": 135364,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/97/Icon_fortuneteller.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fortuneteller-1d56ca2feb.png",
+      "contentType": "image/png",
+      "sizeBytes": 157841,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_scarletwoman-c5dedc4beb.png",
+      "contentType": "image/png",
+      "sizeBytes": 164115,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_slayer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_slayer-502ce89303.png",
+      "contentType": "image/png",
+      "sizeBytes": 107109,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_librarian.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_librarian-e466eb38b4.png",
+      "contentType": "image/png",
+      "sizeBytes": 148695,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_baron.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_baron-06abaf5ea8.png",
+      "contentType": "image/png",
+      "sizeBytes": 170378,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_drunk-5ea4cf9d12.png",
+      "contentType": "image/png",
+      "sizeBytes": 151122,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c9/Icon_saint.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_saint-62f90ee816.png",
+      "contentType": "image/png",
+      "sizeBytes": 160204,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_ravenkeeper.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_ravenkeeper-eac199f41a.png",
+      "contentType": "image/png",
+      "sizeBytes": 144386,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_empath.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_empath-ab666702eb.png",
+      "contentType": "image/png",
+      "sizeBytes": 152318,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_lilmonsta.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Special:Random",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_lilmonsta-bc43a89993.png",
+      "contentType": "image/png",
+      "sizeBytes": 163763,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_legion.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Special:Random",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_legion-98fed3373d.png",
+      "contentType": "image/png",
+      "sizeBytes": 179557,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Special:Random",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_summoner-1c4c418851.png",
+      "contentType": "image/png",
+      "sizeBytes": 107565,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a7/Icon_leviathan.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Special:Random",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_leviathan-906c2c7de4.png",
+      "contentType": "image/png",
+      "sizeBytes": 142931,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Special:Random",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_hatter-ffecabe3f5.png",
+      "contentType": "image/png",
+      "sizeBytes": 167813,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/0c/Icon_xaan.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_xaan-2ef50a2cd0.png",
+      "contentType": "image/png",
+      "sizeBytes": 185899,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_politician.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_politician-dd3687514c.png",
+      "contentType": "image/png",
+      "sizeBytes": 141656,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/93/Icon_magician.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_magician-a96dc975db.png",
+      "contentType": "image/png",
+      "sizeBytes": 170633,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_steward.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_steward-c31cbd7907.png",
+      "contentType": "image/png",
+      "sizeBytes": 169839,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_harpy.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_harpy-9257c49a8f.png",
+      "contentType": "image/png",
+      "sizeBytes": 149755,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_goblin.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_goblin-6cbb13ece7.png",
+      "contentType": "image/png",
+      "sizeBytes": 118609,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_psychopath.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_psychopath-9e493d2289.png",
+      "contentType": "image/png",
+      "sizeBytes": 131713,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d9/Icon_choirboy.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_choirboy-f2e37f92cb.png",
+      "contentType": "image/png",
+      "sizeBytes": 134999,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_shugenja.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_shugenja-2630585161.png",
+      "contentType": "image/png",
+      "sizeBytes": 133483,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/82/Icon_preacher.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_preacher-95ed71f586.png",
+      "contentType": "image/png",
+      "sizeBytes": 175570,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_zealot-82ec0fc154.png",
+      "contentType": "image/png",
+      "sizeBytes": 102841,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/43/Icon_atheist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_atheist-4e153dbedb.png",
+      "contentType": "image/png",
+      "sizeBytes": 128060,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_amnesiac.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_amnesiac-ad69cf1b5f.png",
+      "contentType": "image/png",
+      "sizeBytes": 132950,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_knight.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_knight-1c67892c09.png",
+      "contentType": "image/png",
+      "sizeBytes": 172820,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_heretic.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_heretic-e143fcdf2b.png",
+      "contentType": "image/png",
+      "sizeBytes": 143636,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_marionette-ab18ddfcb1.png",
+      "contentType": "image/png",
+      "sizeBytes": 102853,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/7a/Icon_puzzlemaster.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_puzzlemaster-58e33e1ec4.png",
+      "contentType": "image/png",
+      "sizeBytes": 177384,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_balloonist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_balloonist-189929c36a.png",
+      "contentType": "image/png",
+      "sizeBytes": 146834,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/92/Icon_lycanthrope.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_lycanthrope-c4144aaaa4.png",
+      "contentType": "image/png",
+      "sizeBytes": 156571,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/3/36/Icon_princess.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_princess-59636e16ed.png",
+      "contentType": "image/png",
+      "sizeBytes": 184060,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_cannibal.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_cannibal-01e7627576.png",
+      "contentType": "image/png",
+      "sizeBytes": 129329,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_acrobat.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_acrobat-26de0efd35.png",
+      "contentType": "image/png",
+      "sizeBytes": 144258,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/3/3c/Icon_kazali.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_kazali-6e56751d6f.png",
+      "contentType": "image/png",
+      "sizeBytes": 104139,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_yaggababble-8b1fa50d4c.png",
+      "contentType": "image/png",
+      "sizeBytes": 221022,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/61/Icon_organgrinder.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_organgrinder-052c9bb77a.png",
+      "contentType": "image/png",
+      "sizeBytes": 210270,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_fearmonger.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fearmonger-4bdc410df6.png",
+      "contentType": "image/png",
+      "sizeBytes": 133767,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6c/Icon_cultleader.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_cultleader-3c9c36ee88.png",
+      "contentType": "image/png",
+      "sizeBytes": 133691,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_plaguedoctor-3d9710a020.png",
+      "contentType": "image/png",
+      "sizeBytes": 207431,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/cc/Icon_noble.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_noble-e2d14eb450.png",
+      "contentType": "image/png",
+      "sizeBytes": 194832,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6f/Icon_ojo.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_ojo-5af8ac2a87.png",
+      "contentType": "image/png",
+      "sizeBytes": 181511,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/99/Icon_widow.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_widow-3f19cb4289.png",
+      "contentType": "image/png",
+      "sizeBytes": 146717,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_pixie-5a172be354.png",
+      "contentType": "image/png",
+      "sizeBytes": 156681,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/91/Icon_poppygrower.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_poppygrower-d780dd910f.png",
+      "contentType": "image/png",
+      "sizeBytes": 145547,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_wizard.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_wizard-f1e1a0c912.png",
+      "contentType": "image/png",
+      "sizeBytes": 230095,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c1/Icon_snitch.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_snitch-585a441087.png",
+      "contentType": "image/png",
+      "sizeBytes": 150036,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_alchemist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_alchemist-c2453d715f.png",
+      "contentType": "image/png",
+      "sizeBytes": 160966,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_boomdandy-89d41323b7.png",
+      "contentType": "image/png",
+      "sizeBytes": 160605,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b4/Icon_hermit.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_hermit-f528e8b49b.png",
+      "contentType": "image/png",
+      "sizeBytes": 143084,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/5b/Icon_bountyhunter.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_bountyhunter-7706a2b710.png",
+      "contentType": "image/png",
+      "sizeBytes": 135210,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_alsaahir.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_alsaahir-26e38643fa.png",
+      "contentType": "image/png",
+      "sizeBytes": 174180,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_farmer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_farmer-4e0a7bd8b9.png",
+      "contentType": "image/png",
+      "sizeBytes": 137088,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/25/Icon_ogre.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_ogre-aabe39258b.png",
+      "contentType": "image/png",
+      "sizeBytes": 65240,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/18/Icon_alhadikhia.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_alhadikhia-7aeeb0db0d.png",
+      "contentType": "image/png",
+      "sizeBytes": 161351,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/f0/Icon_nightwatchman.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_nightwatchman-334d67b702.png",
+      "contentType": "image/png",
+      "sizeBytes": 111616,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_fisherman.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fisherman-51d130ef56.png",
+      "contentType": "image/png",
+      "sizeBytes": 121236,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/2d/Icon_riot.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_riot-690b034316.png",
+      "contentType": "image/png",
+      "sizeBytes": 176159,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_huntsman.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_huntsman-6634df2705.png",
+      "contentType": "image/png",
+      "sizeBytes": 108209,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/2b/Icon_golem.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_golem-9ae9105b27.png",
+      "contentType": "image/png",
+      "sizeBytes": 179408,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_wraith.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_wraith-e62022ec51.png",
+      "contentType": "image/png",
+      "sizeBytes": 241769,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_mezepheles-0d4fa45174.png",
+      "contentType": "image/png",
+      "sizeBytes": 139142,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_banshee.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_banshee-8b91599240.png",
+      "contentType": "image/png",
+      "sizeBytes": 99055,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/da/Icon_villageidiot.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_villageidiot-983d5e1040.png",
+      "contentType": "image/png",
+      "sizeBytes": 98773,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b9/Icon_engineer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_engineer-da53098111.png",
+      "contentType": "image/png",
+      "sizeBytes": 162993,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/70/Icon_lleech.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_lleech-73657db9ba.png",
+      "contentType": "image/png",
+      "sizeBytes": 121829,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_damsel.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_damsel-bcb5545a8b.png",
+      "contentType": "image/png",
+      "sizeBytes": 117230,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/a/a4/Icon_vizier.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_vizier-1950b99e66.png",
+      "contentType": "image/png",
+      "sizeBytes": 170103,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_lordoftyphon-ead267f21e.png",
+      "contentType": "image/png",
+      "sizeBytes": 177306,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_king.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_king-b8fea88dd2.png",
+      "contentType": "image/png",
+      "sizeBytes": 161477,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/99/Icon_general.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_general-7897b19fc5.png",
+      "contentType": "image/png",
+      "sizeBytes": 130273,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_boffin-28ffee48f0.png",
+      "contentType": "image/png",
+      "sizeBytes": 205781,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/7/71/Icon_deusexfiasco.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_deusexfiasco-aa66d7c80e.png",
+      "contentType": "image/png",
+      "sizeBytes": 168290,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_ferryman.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_ferryman-be0a47f9e9.png",
+      "contentType": "image/png",
+      "sizeBytes": 146788,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_highpriestess.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Experimental",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_highpriestess-2168cb4337.png",
+      "contentType": "image/png",
+      "sizeBytes": 93775,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/94/Icon_revolutionary.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_revolutionary-ae3dbe21b6.png",
+      "contentType": "image/png",
+      "sizeBytes": 127323,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/2e/Icon_fibbin.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fibbin-ac74a841e9.png",
+      "contentType": "image/png",
+      "sizeBytes": 135241,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d4/Icon_sentinel.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_sentinel-e475588cec.png",
+      "contentType": "image/png",
+      "sizeBytes": 123770,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_doomsayer.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_doomsayer-31ea61d9db.png",
+      "contentType": "image/png",
+      "sizeBytes": 127274,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/65/Icon_hellslibrarian.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_hellslibrarian-f1a4d496a3.png",
+      "contentType": "image/png",
+      "sizeBytes": 186973,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/27/Icon_toymaker.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_toymaker-f36d2fe98a.png",
+      "contentType": "image/png",
+      "sizeBytes": 141261,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/25/Icon_buddhist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_buddhist-db853ec2ba.png",
+      "contentType": "image/png",
+      "sizeBytes": 163838,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/87/Icon_duchess.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_duchess-7bba8dcbe6.png",
+      "contentType": "image/png",
+      "sizeBytes": 152516,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/96/Icon_spiritofivory.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_spiritofivory-76f8cd0eaf.png",
+      "contentType": "image/png",
+      "sizeBytes": 156774,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/ca/Icon_angel.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_angel-0e4ee4ba67.png",
+      "contentType": "image/png",
+      "sizeBytes": 86486,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e5/Icon_fiddler.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fiddler-2d4a936c5d.png",
+      "contentType": "image/png",
+      "sizeBytes": 164749,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/86/Icon_djinn.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Fabled",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_djinn-172c3fac82.png",
+      "contentType": "image/png",
+      "sizeBytes": 158008,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/8/87/Icon_chambermaid.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_chambermaid-28a07817a0.png",
+      "contentType": "image/png",
+      "sizeBytes": 121154,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_sailor.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_sailor-1d6cd6ab5f.png",
+      "contentType": "image/png",
+      "sizeBytes": 149039,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/f4/Icon_pukka.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_pukka-791a590b1c.png",
+      "contentType": "image/png",
+      "sizeBytes": 145191,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_godfather-8b2967c97c.png",
+      "contentType": "image/png",
+      "sizeBytes": 115420,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/0c/Icon_innkeeper.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_innkeeper-e917c9b9a6.png",
+      "contentType": "image/png",
+      "sizeBytes": 124889,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_tealady.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_tealady-ae6d823bc8.png",
+      "contentType": "image/png",
+      "sizeBytes": 147938,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/0/09/Icon_devilsadvocate.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_devilsadvocate-3561a04984.png",
+      "contentType": "image/png",
+      "sizeBytes": 143561,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_grandmother.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_grandmother-e82345c9fb.png",
+      "contentType": "image/png",
+      "sizeBytes": 141494,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/64/Icon_lunatic.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_lunatic-09df323cec.png",
+      "contentType": "image/png",
+      "sizeBytes": 163157,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/5/5d/Icon_pacifist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_pacifist-caf1e7e7cb.png",
+      "contentType": "image/png",
+      "sizeBytes": 161706,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/1f/Icon_shabaloth.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_shabaloth-79445348d1.png",
+      "contentType": "image/png",
+      "sizeBytes": 171398,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/9/98/Icon_tinker.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_tinker-2e627321e8.png",
+      "contentType": "image/png",
+      "sizeBytes": 124458,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/b/b2/Icon_po.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_po-ebc34b7bcb.png",
+      "contentType": "image/png",
+      "sizeBytes": 105422,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/6f/Icon_goon.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_goon-490d7f6c72.png",
+      "contentType": "image/png",
+      "sizeBytes": 142713,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d9/Icon_fool.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_fool-18781441d6.png",
+      "contentType": "image/png",
+      "sizeBytes": 179049,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c2/Icon_exorcist.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_exorcist-ad565abf8c.png",
+      "contentType": "image/png",
+      "sizeBytes": 151401,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_moonchild.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_moonchild-baf566a116.png",
+      "contentType": "image/png",
+      "sizeBytes": 123670,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/1/15/Icon_zombuul.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_zombuul-023debf322.png",
+      "contentType": "image/png",
+      "sizeBytes": 142895,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_courtier.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_courtier-10e1bc5ef3.png",
+      "contentType": "image/png",
+      "sizeBytes": 125051,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_mastermind.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_mastermind-3ae5c8a0c3.png",
+      "contentType": "image/png",
+      "sizeBytes": 124516,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/f/fd/Icon_gambler.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_gambler-46fe7e3e54.png",
+      "contentType": "image/png",
+      "sizeBytes": 139903,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_assassin-c74a7294e6.png",
+      "contentType": "image/png",
+      "sizeBytes": 102924,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/c/c7/Icon_gossip.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_gossip-3c2eaca7e0.png",
+      "contentType": "image/png",
+      "sizeBytes": 125645,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/2/24/Icon_minstrel.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_minstrel-f8cafbddff.png",
+      "contentType": "image/png",
+      "sizeBytes": 128344,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/images/6/65/Icon_professor.png",
+      "pageUrl": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
+      "localPath": "public/assets/botc/wiki.bloodontheclocktower.com/Icon_professor-8c40c2fa40.png",
+      "contentType": "image/png",
+      "sizeBytes": 163992,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/image_bg_e4222d05-b240-4411-83dd-3365b0e75ac2.avif?v=1762168751&width=3000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/mission-vision-values",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/image_bg_e4222d05-b240-4411-83dd-3365b0e75ac2-0c64beb0f0.avif",
+      "contentType": "image/png",
+      "sizeBytes": 1506882,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/5---Painting-_2_1.avif?v=1762167749&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/mission-vision-values",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/5---Painting-_2_1-7913a5c78b.avif",
+      "contentType": "image/png",
+      "sizeBytes": 349270,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/paper_background.avif?v=1762171943&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/mission-vision-values",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/paper_background-ec5c92a191.avif",
+      "contentType": "image/png",
+      "sizeBytes": 1788318,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/lady.avif?v=1762167533&width=3840",
+      "pageUrl": "https://bloodontheclocktower.com/pages/mission-vision-values",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/lady-d201a3756e.avif",
+      "contentType": "image/png",
+      "sizeBytes": 1096988,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/purple-about-bg.png?v=1758795982&width=1920",
+      "pageUrl": "https://bloodontheclocktower.com/pages/mission-vision-values",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/purple-about-bg-b9160102b4.png",
+      "contentType": "image/png",
+      "sizeBytes": 2164589,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Jams_-_Page_Profile.webp?v=1760628972&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Jams_-_Page_Profile-404c9ba655.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 12486,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/2_-_Logo_-_Skull_MITHOTD_2.png?v=1758090755&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/2_-_Logo_-_Skull_MITHOTD_2-d94c7f06d1.png",
+      "contentType": "image/png",
+      "sizeBytes": 274218,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Reggie_-_Page_Profile.webp?v=1760628254&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Reggie_-_Page_Profile-be7e712ce7.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 33509,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Stephanie_-_Page_Profile.webp?v=1760628972&width=1750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Stephanie_-_Page_Profile-61c54d5800.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 39887,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Chris_-_Page_Profile.webp?v=1760628254&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Chris_-_Page_Profile-c420ed7724.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 55620,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/JinJin_-_Page_Profile.webp?v=1760628972&width=400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/JinJin_-_Page_Profile-eee9a87e64.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 50490,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/papericon_1.webp?v=1758872398&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/papericon_1-2e2a8dc09a.webp",
+      "contentType": "image/png",
+      "sizeBytes": 494772,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Gareth_-_Page_Profile.webp?v=1760628972&width=1750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Gareth_-_Page_Profile-48bd342ca1.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 36514,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Evin_-_Page_Profile.webp?v=1760628254&width=3200",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Evin_-_Page_Profile-4bfe2fa013.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 33423,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/IMG_20250918_181340.png?v=1760715981&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/IMG_20250918_181340-18bfec0b39.png",
+      "contentType": "image/png",
+      "sizeBytes": 1917978,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Arif_podcast_face.png?v=1772106849&width=3200",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Arif_podcast_face-baa19cfb29.png",
+      "contentType": "image/png",
+      "sizeBytes": 2166721,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Steffen_-_Page_Profile.webp?v=1760628972&width=500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Steffen_-_Page_Profile-1df102f545.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 31603,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Lachlan_-_Page_Profile.webp?v=1760628971&width=3200",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Lachlan_-_Page_Profile-6814e98ce9.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 31380,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Claire_-_Page_Profile.jpg?v=1760628972&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Claire_-_Page_Profile-3e00c4179e.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 25910,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Yuli_Moreno.jpg?v=1769451607&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Yuli_Moreno-bad6a173d8.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 249513,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Steven_-_Page_Profile.webp?v=1760628254&width=1250",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Steven_-_Page_Profile-313fde9246.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 28243,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Head_shot.png?v=1760715979&width=2750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Head_shot-77a33d3bbc.png",
+      "contentType": "image/png",
+      "sizeBytes": 817803,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_GOS_Cutout_-_Branch_G_2_1.webp?v=1760012018&width=180",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_GOS_Cutout_-_Branch_G_2_1-811a4183ab.webp",
+      "contentType": "image/png",
+      "sizeBytes": 42083,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/purple-bg-with-edge_3.webp?v=1758872451&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/purple-bg-with-edge_3-f2a5e92c94.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 238450,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_GOS_Cutout_-_Leaf_A_3_1.png?v=1759993127&width=260",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_GOS_Cutout_-_Leaf_A_3_1-7e4d01e494.png",
+      "contentType": "image/png",
+      "sizeBytes": 27483,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/pho.webp?v=1758716896&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/about-us",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/pho-0dd2568a7d.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 227608,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/CarouselLabelShopify_699d5705-d012-41d0-97c7-4aeaf98f183d.png?v=1749591835&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/contact-us-links",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/CarouselLabelShopify_699d5705-d012-41d0-97c7-4aeaf98f183d-d59cfeb864.png",
+      "contentType": "image/png",
+      "sizeBytes": 144875,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Purple_background_top_png.webp?v=1759748349&width=1600",
+      "pageUrl": "https://bloodontheclocktower.com/pages/contact-us-links",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Purple_background_top_png-2e2c766b17.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1099612,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/41-B-Merchcroppped.jpg?v=1749717187&width=940",
+      "pageUrl": "https://bloodontheclocktower.com/pages/contact-us-links",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/41-B-Merchcroppped-913e88e211.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 213006,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/IMG_7705.jpg?v=1725884476&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/contact-us-links",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/IMG_7705-182048cfa8.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 85556,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_TAF_Cutout_-_Lotus_B_1.png?v=1759216329&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_TAF_Cutout_-_Lotus_B_1-2ad8fc6f31.png",
+      "contentType": "image/png",
+      "sizeBytes": 32129,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/logo-DUKMGWFZ.webp?v=1761807808&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/logo-DUKMGWFZ-2ce37e263b.webp",
+      "contentType": "image/png",
+      "sizeBytes": 509464,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42546.png?v=1759302696&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42546-356dba0d7a.png",
+      "contentType": "image/png",
+      "sizeBytes": 139414,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_GOS_Cutout_-_Mushroom_D_1.png?v=1759216329&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_GOS_Cutout_-_Mushroom_D_1-65c6c09e08.png",
+      "contentType": "image/png",
+      "sizeBytes": 25972,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/logo-QJNZUCAR.webp?v=1761807975&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/logo-QJNZUCAR-ecf264269c.webp",
+      "contentType": "image/png",
+      "sizeBytes": 452468,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/explore-artwork-Z6H24WEY.webp?v=1761808004&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/explore-artwork-Z6H24WEY-9908c14c82.webp",
+      "contentType": "image/png",
+      "sizeBytes": 561394,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_TT_Cutout_-_Candles_1.png?v=1759216329&width=300",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_TT_Cutout_-_Candles_1-a120d1df9e.png",
+      "contentType": "image/png",
+      "sizeBytes": 14210,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_BMR_Cutout_-_Bowl_2.png?v=1759216330&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_BMR_Cutout_-_Bowl_2-b9ec8429c8.png",
+      "contentType": "image/png",
+      "sizeBytes": 14626,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Grimoire_6_7.jpg?v=1759217127&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Grimoire_6_7-3244e655d0.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 12211,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Grimoire_6_6.jpg?v=1759217128&width=75",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Grimoire_6_6-15b6310293.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 3923,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Grimoire_6_4.jpg?v=1759217127&width=150",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Grimoire_6_4-1c3f7f4c66.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 9072,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/New_Project.png?v=1762251551&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/New_Project-6287c4c087.png",
+      "contentType": "image/png",
+      "sizeBytes": 32768,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/leaf_20cutouts_20L.webp?v=1760611296&width=160",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/leaf_20cutouts_20L-912b8445a0.webp",
+      "contentType": "image/png",
+      "sizeBytes": 50539,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3j_-_GOS_Cutout_-_John_A_2.png?v=1759213587&width=160",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3j_-_GOS_Cutout_-_John_A_2-6a58ef3379.png",
+      "contentType": "image/png",
+      "sizeBytes": 46794,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/explore-artwork-I3UOZ3DW.webp?v=1761807624&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/explore-artwork-I3UOZ3DW-4b59f4dc9e.webp",
+      "contentType": "image/png",
+      "sizeBytes": 35547,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/buy-book.png?v=1762251575&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/buy-book-e24baee449.png",
+      "contentType": "image/png",
+      "sizeBytes": 159271,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_S_V_Cutout_-_Beetle_2.png?v=1759216329&width=300",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_S_V_Cutout_-_Beetle_2-a61cccc9fa.png",
+      "contentType": "image/png",
+      "sizeBytes": 18179,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/bg-light-rough-tile-TJBBJ7QQ.webp?v=1761808259&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/bg-light-rough-tile-TJBBJ7QQ-b78d7200a6.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 218649,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/explore-artwork-Z6GETMQQ.webp?v=1761807919&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/explore-artwork-Z6GETMQQ-237b309884.webp",
+      "contentType": "image/png",
+      "sizeBytes": 565404,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/logo-3V3QAAVM.webp?v=1761808084&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/logo-3V3QAAVM-a0e44efa4b.webp",
+      "contentType": "image/png",
+      "sizeBytes": 55508,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/parchment01_1.webp?v=1759213405&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/parchment01_1-9909cfdc12.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1785256,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/explore-artwork-YW7L7OJB.webp?v=1761808112&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/explore-artwork-YW7L7OJB-c6c9681075.webp",
+      "contentType": "image/png",
+      "sizeBytes": 38989,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/parchment01_1_05c6452b-c01f-43cb-a02c-d3accf687f1a.webp?v=1759217385&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/parchment01_1_05c6452b-c01f-43cb-a02c-d3accf687f1a-6445dd5505.webp",
+      "contentType": "image/png",
+      "sizeBytes": 2735302,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/logo-PO4QGYTI.webp?v=1761807163&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/logo-PO4QGYTI-359aa5115d.webp",
+      "contentType": "image/png",
+      "sizeBytes": 68973,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Grimoire_1_2.webp?v=1759302851&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Grimoire_1_2-8be23d0c48.webp",
+      "contentType": "image/png",
+      "sizeBytes": 40514,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42531_1.webp?v=1759215986&width=535",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42531_1-96d97a7778.webp",
+      "contentType": "image/png",
+      "sizeBytes": 461243,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/leaf_20cutouts_20R_1.webp?v=1760611354&width=160",
+      "pageUrl": "https://bloodontheclocktower.com/pages/buy",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/leaf_20cutouts_20R_1-70619b0690.webp",
+      "contentType": "image/png",
+      "sizeBytes": 19201,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/crow_6.png?v=1759498661&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/crow_6-88d4f56acc.png",
+      "contentType": "image/png",
+      "sizeBytes": 293755,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Vector_5.webp?v=1759494206&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Vector_5-7380eb86ff.webp",
+      "contentType": "image/png",
+      "sizeBytes": 472842,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42590-min.png?v=1759496146&width=535",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42590-min-f9139e4d8f.png",
+      "contentType": "image/png",
+      "sizeBytes": 176497,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Frame_42758_1_5a6f8e37-b654-4e77-add0-a4514c372ff4.png?v=1758781626&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Frame_42758_1_5a6f8e37-b654-4e77-add0-a4514c372ff4-0e8557b9ed.png",
+      "contentType": "image/png",
+      "sizeBytes": 3392672,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/splashpage_mayor_1.webp?v=1759495481&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/splashpage_mayor_1-d75c8e8470.webp",
+      "contentType": "image/png",
+      "sizeBytes": 218697,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Rectangle_38.webp?v=1759311685&width=1600",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Rectangle_38-e0578f7a05.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 248375,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_TGSOE_Cutout_-_Dongle_A_1.png?v=1760012106&width=40",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_TGSOE_Cutout_-_Dongle_A_1-ad570c6749.png",
+      "contentType": "image/png",
+      "sizeBytes": 13087,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Line_97_4.png?v=6985659818309391589",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Line_97_4-fda0bc6423.png",
+      "contentType": "image/png",
+      "sizeBytes": 4565,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_GOS_Cutout_-_Leaf_D_3_2.webp?v=1760012452&width=220",
+      "pageUrl": "https://bloodontheclocktower.com/pages/how-to-play",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_GOS_Cutout_-_Leaf_D_3_2-bb2d9fdee3.webp",
+      "contentType": "image/png",
+      "sizeBytes": 71258,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/articles/Untitled_design_11.png?v=1771842073&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Untitled_design_11-6548107e60.png",
+      "contentType": "image/png",
+      "sizeBytes": 224013,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/articles/Steve_medway_on_podcast.webp?v=1771409041&width=1000",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Steve_medway_on_podcast-59de315f0b.webp",
+      "contentType": "image/jpeg",
+      "sizeBytes": 149866,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/articles/Screenshot_2026-02-17_at_09.40.41.png?v=1771322047",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Screenshot_2026-02-17_at_09-40-41-a746c055a9.png",
+      "contentType": "image/png",
+      "sizeBytes": 2658377,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/3_-_GOS_Cutout_-_Leaf_A_3.png?v=1758003945&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/3_-_GOS_Cutout_-_Leaf_A_3-7a6d61386b.png",
+      "contentType": "image/png",
+      "sizeBytes": 34953,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/articles/Djinn_19e7d928-30e8-483b-8e22-f8ef7193eef1.webp?v=1763640863&width=533",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Djinn_19e7d928-30e8-483b-8e22-f8ef7193eef1-86bd277b59.webp",
+      "contentType": "image/png",
+      "sizeBytes": 106176,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/articles/Carousel_in_the_Grim_5ad9b6b3-4fe8-4b8c-8502-79c0a503660b.jpg?v=1773003280&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Carousel_in_the_Grim_5ad9b6b3-4fe8-4b8c-8502-79c0a503660b-5a8fdad4d7.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 677411,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/articles/clocktower_chair_CHAINS_v2.png?v=1771325326&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_chair_CHAINS_v2-9157e41f9a.png",
+      "contentType": "image/png",
+      "sizeBytes": 53346,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/purple-bg-with-edge_3_1.webp?v=1759120878&width=1920",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/purple-bg-with-edge_3_1-2a0ce3b919.webp",
+      "contentType": "image/png",
+      "sizeBytes": 998179,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/paperbgwithbell_3_4.webp?v=1759128439&width=1920",
+      "pageUrl": "https://bloodontheclocktower.com/blogs/news",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/paperbgwithbell_3_4-e89930f2a8.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1368466,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/starpasssum.png?v=1764179810&width=750",
+      "pageUrl": "https://bloodontheclocktower.com/pages/events",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/starpasssum-0f76478346.png",
+      "contentType": "image/png",
+      "sizeBytes": 33322,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/clocktower_cruise_logo-RBHAEKAM.webp?v=1760611138&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/pages/events",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/clocktower_cruise_logo-RBHAEKAM-da551e4c27.webp",
+      "contentType": "image/png",
+      "sizeBytes": 53349,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/CCCon_Germany.png?v=1761128647&width=1070",
+      "pageUrl": "https://bloodontheclocktower.com/pages/events",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/CCCon_Germany-58e6f0b20b.png",
+      "contentType": "image/png",
+      "sizeBytes": 194563,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Group_42657_1.webp?v=1759825522&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/events",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Group_42657_1-c35a4d79f4.webp",
+      "contentType": "image/png",
+      "sizeBytes": 3363753,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/23-H-Merchcropped.jpg?v=1749642859&width=360",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/23-H-Merchcropped-56efff2978.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 33228,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BotCDiceFullSetPurple1.jpg?v=1730974006&width=720",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BotCDiceFullSetPurple1-cdb9fc12fc.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 209411,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/35-T-Merchcropped.png?v=1749642962",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/35-T-Merchcropped-3171250b37.png",
+      "contentType": "image/png",
+      "sizeBytes": 16999794,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BOTCToteBag2a.jpg?v=1730908942&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BOTCToteBag2a-e852441877.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 13439,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BotCBottle9.jpg?v=1730895192&width=165",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BotCBottle9-6d415dd9a9.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 15046,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BotCKeyringPuck5.jpg?v=1730907867&width=533",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BotCKeyringPuck5-80033ba6d3.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 114277,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BotCPatchPuck1.jpg?v=1730896085&width=533",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BotCPatchPuck1-9fe9545e89.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 128696,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BotCEnamelPinPuck4.jpg?v=1730898292",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BotCEnamelPinPuck4-4cc2466aaf.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 1185439,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BotCBeanieFlatRightSide3.jpg?v=1730973872&width=720",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BotCBeanieFlatRightSide3-c86cafdc25.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 246416,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/32-N-Merchcropped.jpg?v=1750329594",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/32-N-Merchcropped-46009f23be.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 1709457,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/LilMonstaPlushie6.jpg?v=1730908258&width=533",
+      "pageUrl": "https://bloodontheclocktower.com/collections/merchandise",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/LilMonstaPlushie6-5352604691.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 113407,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "http://bloodontheclocktower.com/cdn/shop/collections/logo-col.png?v=1751394891",
+      "pageUrl": "https://bloodontheclocktower.com/collections/accessories",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/logo-col-761a58be43.png",
+      "contentType": "image/png",
+      "sizeBytes": 2202182,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Middlerow2_centre.jpg?v=1688887997&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Middlerow2_centre-cb49db5ef9.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 502931,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Bottomrow1_left.jpg?v=1688887997&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Bottomrow1_left-b7a40ae0b3.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 357934,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Middlerow1_left.jpg?v=1688887997&width=1100",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Middlerow1_left-03b6b3b679.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 501204,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Bottomrow2_centre.jpg?v=1688887997&width=1426",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Bottomrow2_centre-a18f786ebc.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 635744,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Bottomrow3_right.jpg?v=1688887997&width=493",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Bottomrow3_right-1a089f039a.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 135101,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/Middlerow3_Rright.jpg?v=1688887997",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Middlerow3_Rright-25945d71d4.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 2121279,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_GOS_Cutout_-_Branch_D_1.png_1.webp?v=1759751813&width=260",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_GOS_Cutout_-_Branch_D_1-png_1-9e84a5ff26.webp",
+      "contentType": "image/png",
+      "sizeBytes": 59671,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "http://bloodontheclocktower.com/cdn/shop/files/Toprow.jpg?v=1688887898",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/Toprow-71d89745bb.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 2134417,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/9816e30235bd517d687951a2a82554c9f247a848.webp?v=1759744239&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/9816e30235bd517d687951a2a82554c9f247a848-e0eb5f714f.webp",
+      "contentType": "image/png",
+      "sizeBytes": 2389294,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Sand_background_1.png_1_1.webp?v=1759752918&width=2000",
+      "pageUrl": "https://bloodontheclocktower.com/products/blood-on-the-clocktower-the-game",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Sand_background_1-png_1_1-c16d717938.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1803104,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/top_bg.webp?v=1759743814&width=100",
+      "pageUrl": "https://bloodontheclocktower.com/pages/our-store",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/top_bg-f007ec5d16.webp",
+      "contentType": "image/png",
+      "sizeBytes": 8565,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/BOTCxGSv2_1800x812_No_Text.jpg?v=1764695938&width=1500",
+      "pageUrl": "https://bloodontheclocktower.com/pages/our-store",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/BOTCxGSv2_1800x812_No_Text-6db7c27663.jpg",
+      "contentType": "image/jpeg",
+      "sizeBytes": 350854,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/IMG_7557-Recovered.png?v=1760721593&width=3000",
+      "pageUrl": "https://bloodontheclocktower.com/pages/our-store",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/IMG_7557-Recovered-a2860fe104.png",
+      "contentType": "image/png",
+      "sizeBytes": 5992356,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_3_-_TB_Cutout_-_Branch_C_1_png.webp?v=1759738553&width=200",
+      "pageUrl": "https://bloodontheclocktower.com/pages/our-store",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_3_-_TB_Cutout_-_Branch_C_1_png-cdbf7016e7.webp",
+      "contentType": "image/png",
+      "sizeBytes": 62246,
+      "license": "TODO",
+      "attribution": "TODO"
+    },
+    {
+      "sourceUrl": "https://bloodontheclocktower.com/cdn/shop/files/wow-image_Picture_Sand_background_1_png.webp?v=1759734211&width=2400",
+      "pageUrl": "https://bloodontheclocktower.com/pages/our-store",
+      "localPath": "public/assets/botc/bloodontheclocktower.com/wow-image_Picture_Sand_background_1_png-9cc2c2f1b4.webp",
+      "contentType": "image/png",
+      "sizeBytes": 1063527,
+      "license": "TODO",
+      "attribution": "TODO"
+    }
+  ]
+}
