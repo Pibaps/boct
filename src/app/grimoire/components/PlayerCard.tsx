@@ -15,11 +15,31 @@ interface Props {
   onUpdateNotes: (notes: string) => void;
 }
 
-const tokenInfo: Record<TokenKind, { icon: string; key: string; color: string }> = {
-  poisoned: { icon: "▲", key: "poisoned", color: "#9c27b0" },
-  drunk: { icon: "◊", key: "drunk", color: "#ff9800" },
-  protected: { icon: "◈", key: "protected", color: "#4caf50" },
-  "night-kill": { icon: "▬", key: "night-kill", color: "#f44336" },
+const tokenInfo: Record<TokenKind, { icon: string; image?: string; key: string; color: string }> = {
+  poisoned: {
+    icon: "▲",
+    image: "/assets/botc/wiki.bloodontheclocktower.com/Icon_poisoner-fd3059039e.png",
+    key: "poisoned",
+    color: "#9c27b0",
+  },
+  drunk: {
+    icon: "◊",
+    image: "/assets/botc/wiki.bloodontheclocktower.com/Icon_drunk-5ea4cf9d12.png",
+    key: "drunk",
+    color: "#ff9800",
+  },
+  protected: {
+    icon: "◈",
+    image: "/assets/botc/wiki.bloodontheclocktower.com/Icon_sentinel-e475588cec.png",
+    key: "protected",
+    color: "#4caf50",
+  },
+  "night-kill": {
+    icon: "▬",
+    image: "/assets/botc/wiki.bloodontheclocktower.com/Icon_nightwatchman-334d67b702.png",
+    key: "night-kill",
+    color: "#f44336",
+  },
   custom: { icon: "■", key: "custom", color: "#607d8b" },
 };
 
@@ -148,7 +168,17 @@ export default function PlayerCard({
                   }}
                   title={tokenLabels[info.key]}
                 >
-                  {info.icon}
+                  {info.image ? (
+                    <Image
+                      src={info.image}
+                      alt={tokenLabels[info.key]}
+                      width={18}
+                      height={18}
+                      className="inline-block"
+                    />
+                  ) : (
+                    info.icon
+                  )}
                 </button>
               );
             })}
