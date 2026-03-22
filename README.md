@@ -1,59 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BotC Grimoire
 
-## Getting Started
+Projet Next.js officiel de l’application Blood on the Clocktower (BOtC) : grimoire, carte des rôles, règles, stratégie, et guide de jeu.
 
-First, run the development server:
+## Liens clés
+
+- APK stable : https://github.com/Pibaps/botc/releases/tag/APK
+- Site web : https://botc-seven.vercel.app
+
+## Démarrage rapide
+
+Installer les dépendances :
+
+```bash
+npm install
+```
+
+Lancer le serveur de dev :
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Ouvrir http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Commandes utiles
 
-## Fetch Game Artwork Assets
+- Génération d’assets : `npm run assets:fetch`
+- Build production : `npm run build`
+- Démarrage production : `npm run start`
+- Build Android debug (Capacitor) : `npm run build:android:debug`
 
-The project includes a Python crawler to collect image assets from approved BOCT URLs:
+## Structure principale
 
-```bash
-npm run assets:fetch
-```
+- `src/app` : routes et pages (App Router)
+- `src/components` : composants réutilisables
+- `public/assets/botc` : ressources statiques du jeu
+- `scripts` : outils d’import, crawlers et génération d’assets
 
-Useful options:
+## Contribution
 
-```bash
-python scripts/fetch_botc_assets.py --max-pages 200 --delay-ms 250
-python scripts/fetch_botc_assets.py --seed https://wiki.bloodontheclocktower.com --max-pages 80
-```
+1. Créer une branche feature.
+2. Committer avec message clair.
+3. PR vers main, inclure tests manuels et capture d’écran.
 
-Output:
+---
 
-- Downloaded files in `public/assets/botc/`
-- Crawl manifest in `public/assets/botc/manifest.json`
-- UI mapping in `src/data/characterArtwork.ts`
-
-Important: review `license` and `attribution` fields in the manifest before publishing assets.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Rapide et efficace, ce README est conçu pour rester court et orienté production.
