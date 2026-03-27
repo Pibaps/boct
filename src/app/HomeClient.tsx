@@ -748,8 +748,8 @@ export default function HomeClient() {
             {[
               {
                 href: "/rules",
-                symbolFr: "◆",
-                symbolEn: "◆",
+                icon: "/assets/botc/parchemin.png",
+                iconAlt: "Règles",
                 titleFr: "Règles",
                 titleEn: "Rules",
                 descFr: "La boucle de jeu, les victoires, les nominations, l'ordre de nuit — tout en détail.",
@@ -758,8 +758,8 @@ export default function HomeClient() {
               },
               {
                 href: "/characters",
-                symbolFr: "◊",
-                symbolEn: "◊",
+                icon: "/assets/botc/personnage.png",
+                iconAlt: "Personnages",
                 titleFr: "Personnages",
                 titleEn: "Characters",
                 descFr: "Tous les rôles des trois éditions avec leurs capacités complètes.",
@@ -768,8 +768,8 @@ export default function HomeClient() {
               },
               {
                 href: "/storyteller",
-                symbolFr: "▪",
-                symbolEn: "▪",
+                icon: "/assets/botc/guide.png",
+                iconAlt: "Guide du Conteur",
                 titleFr: "Guide du Conteur",
                 titleEn: "Storyteller Guide",
                 descFr: "Conseils pour animer une partie mémorable : équilibre, rythme, narration.",
@@ -778,8 +778,8 @@ export default function HomeClient() {
               },
               {
                 href: "/strategy",
-                symbolFr: "✦",
-                symbolEn: "✦",
+                icon: "/assets/botc/cible.png",
+                iconAlt: "Stratégie",
                 titleFr: "Stratégie",
                 titleEn: "Strategy",
                 descFr: "Tactiques pour l'équipe bonne et l'équipe maléfique. Bluff, déduction, vote.",
@@ -788,8 +788,8 @@ export default function HomeClient() {
               },
               {
                 href: "/glossary",
-                symbolFr: "◈",
-                symbolEn: "◈",
+                icon: "/assets/botc/glossaire.png",
+                iconAlt: "Glossaire",
                 titleFr: "Glossaire",
                 titleEn: "Glossary",
                 descFr: "Définitions de tous les termes, états et mécaniques du jeu.",
@@ -798,15 +798,15 @@ export default function HomeClient() {
               },
               {
                 href: "/rules#setup",
-                symbolFr: "⬢",
-                symbolEn: "⬢",
+                icon: "/assets/botc/dé.png",
+                iconAlt: "Mise en Place",
                 titleFr: "Mise en Place",
                 titleEn: "Setup",
                 descFr: "Comment préparer une partie de A à Z selon le nombre de joueurs.",
                 descEn: "How to set up a game from scratch based on player count.",
                 accent: "#5c8a5c",
               },
-            ].map(({ href, symbolFr, symbolEn, titleFr, titleEn, descFr, descEn, accent }, i) => (
+            ].map(({ href, icon, iconAlt, titleFr, titleEn, descFr, descEn, accent }, i) => (
               <RevealSection key={href} delay={i * 0.08}>
                 <Link
                   href={href}
@@ -817,7 +817,9 @@ export default function HomeClient() {
                   }}
                 >
                   <div className="flex items-center gap-3">
-                    <span className="text-2xl">{symbolFr}</span>
+                    <div className="relative w-7 h-7">
+                      <Image src={icon} alt={iconAlt} fill sizes="28px" className="object-contain" />
+                    </div>
                     <h3
                       className="text-cinzel font-semibold text-sm tracking-wide"
                       style={{ color: accent }}

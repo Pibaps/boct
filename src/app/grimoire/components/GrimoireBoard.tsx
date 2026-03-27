@@ -98,7 +98,7 @@ export default function GrimoireBoard({ session, onUpdateSession, onReset }: Pro
         descriptionFr: "Le joueur est éliminé par une action nocturne.",
         descriptionEn: "The player was killed by a night action.",
         color: "#f44336",
-        icon: { src: "/assets/botc/wiki.bloodontheclocktower.com/Icon_nightwatchman-334d67b702.png", alt: "Night Kill" },
+        icon: { src: "/assets/botc/couteau.png", alt: "Night Kill" },
       },
     ],
     []
@@ -381,7 +381,7 @@ export default function GrimoireBoard({ session, onUpdateSession, onReset }: Pro
 
         <StorytellerPanel session={session} onUpdateSession={onUpdateSession} />
 
-        <div className="grid gap-5 min-w-0 2xl:grid-cols-2">
+        <div className="space-y-5 min-w-0">
           <JournalPanel
             panelId="grimoire-journal"
             entries={session.journal}

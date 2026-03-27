@@ -55,14 +55,24 @@ export default function IconLegend({ titleFr, titleEn, items }: Props) {
             }}
           >
             <div
-              className="relative w-11 h-11 shrink-0 overflow-hidden rounded-full flex items-center justify-center"
+              className={
+                item.icon?.src?.includes("/couteau.png")
+                  ? "relative w-12 h-12 shrink-0 overflow-hidden rounded-full flex items-center justify-center p-2"
+                  : "relative w-11 h-11 shrink-0 overflow-hidden rounded-full flex items-center justify-center p-1"
+              }
               style={{
                 background: `radial-gradient(circle at 35% 35%, ${item.color}33, rgba(10,5,6,0.95))`,
                 border: `1px solid ${item.color}55`,
               }}
             >
               {item.icon ? (
-                <Image src={item.icon.src} alt={item.icon.alt} fill sizes="44px" className="object-cover" />
+                <Image
+                  src={item.icon.src}
+                  alt={item.icon.alt}
+                  fill
+                  sizes={item.icon?.src?.includes("/couteau.png") ? "48px" : "44px"}
+                  className="object-contain"
+                />
               ) : (
                 <span className="text-cinzel text-sm font-bold" style={{ color: item.color }}>
                   {item.badge ?? "•"}

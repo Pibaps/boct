@@ -31,14 +31,24 @@ function TermCard({ term }: { term: GlossaryTerm }) {
       >
         <div className="flex items-center gap-3">
           <div
-            className="relative w-8 h-8 rounded-full overflow-hidden shrink-0 flex items-center justify-center"
+            className={
+              term.icon?.src?.includes("/coeur.png")
+                ? "relative w-12 h-12 rounded-full overflow-hidden shrink-0 flex items-center justify-center p-2"
+                : "relative w-10 h-10 rounded-full overflow-hidden shrink-0 flex items-center justify-center p-1"
+            }
             style={{
               background: term.icon ? "rgba(20,8,13,0.7)" : "rgba(139,0,0,0.15)",
               border: `1px solid ${term.icon ? "rgba(201,168,76,0.2)" : "rgba(139,0,0,0.15)"}`,
             }}
           >
             {term.icon ? (
-              <Image src={term.icon.src} alt={term.icon.alt} fill sizes="32px" className="object-cover" />
+              <Image
+                src={term.icon.src}
+                alt={term.icon.alt}
+                fill
+                sizes={term.icon?.src?.includes("/coeur.png") ? "36px" : "32px"}
+                className="object-contain"
+              />
             ) : (
               <span className="text-cinzel text-xs" style={{ color: "#8B0000", fontWeight: 700 }}>
                 {name[0]?.toUpperCase()}

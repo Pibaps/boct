@@ -39,7 +39,7 @@ const tokenInfo: Record<TokenKind, { icon: string; image?: string; key: string; 
   },
   "night-kill": {
     icon: "▬",
-    image: "/assets/botc/wiki.bloodontheclocktower.com/Icon_nightwatchman-334d67b702.png",
+    image: "/assets/botc/couteau.png",
     key: "night-kill",
     color: "#f44336",
   },
@@ -79,6 +79,8 @@ export default function PlayerCard({
   const { t } = useLang();
   const character = allCharacters.find((c) => c.id === player.characterId);
   const state = stateInfo[player.state];
+  const stateIconSrc = state.icon?.src ?? "";
+  const isHeartState = stateIconSrc.includes("/coeur.png");
   const isDead = player.state !== "alive";
 
   const stateLabels: Record<PlayerState, string> = {
@@ -128,13 +130,23 @@ export default function PlayerCard({
           }}
         />
         <span
-          className="relative h-9 w-9 rounded-full overflow-hidden flex items-center justify-center"
+          className={
+            isHeartState
+              ? "relative h-12 w-12 rounded-full overflow-hidden flex items-center justify-center p-2"
+              : "relative h-10 w-10 rounded-full overflow-hidden flex items-center justify-center p-1"
+          }
           style={{ background: "rgba(20,8,13,0.45)", border: `1px solid ${state.color}55` }}
           title={player.state}
           aria-label={player.state}
         >
           {state.icon ? (
-            <Image src={state.icon.src} alt={state.icon.alt} fill sizes="36px" className="object-cover" />
+            <Image
+              src={state.icon.src}
+              alt={state.icon.alt}
+              fill
+              sizes={isHeartState ? "28px" : "36px"}
+              className="object-contain"
+            />
           ) : (
             <span className="text-sm" style={{ color: state.color }}>
               {state.fallback}
@@ -240,8 +252,20 @@ export default function PlayerCard({
             >
               <span className="inline-flex items-center gap-2">
                 {info.icon ? (
-                  <span className="relative h-4 w-4 overflow-hidden rounded-full">
-                    <Image src={info.icon.src} alt={info.icon.alt} fill sizes="16px" className="object-cover" />
+                  <span
+                    className={
+                      info.icon.src.includes("/coeur.png")
+                        ? "relative h-6 w-6 overflow-hidden rounded-full p-1"
+                        : "relative h-5 w-5 overflow-hidden rounded-full p-0.5"
+                    }
+                  >
+                    <Image
+                      src={info.icon.src}
+                      alt={info.icon.alt}
+                      fill
+                      sizes={info.icon.src.includes("/coeur.png") ? "22px" : "20px"}
+                      className="object-contain"
+                    />
                   </span>
                 ) : (
                   <span>{info.fallback}</span>
