@@ -77,7 +77,7 @@ export default function SetupWizard({ onStart, history, onResume, onDelete, onRe
     const now = new Date().toISOString();
 
     const session: GrimoireSession = {
-      version: 3,
+      version: 4,
       id: generateId(),
       name: sessionName.trim() || `Partie ${new Date().toLocaleDateString()}`,
       createdAt: now,
@@ -95,6 +95,7 @@ export default function SetupWizard({ onStart, history, onResume, onDelete, onRe
       ui: {
         currentPhase: "night",
         showSecrets: true,
+        boardMode: "table",
         dayNumber: 0,
         nightNumber: 1,
         storyteller: {

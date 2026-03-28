@@ -1,4 +1,26 @@
-# BOCT Feature Planner
+---
+name: BOCT Feature Planner
+description: "Plan and scope new features for BOCT (Next.js + TS + Tailwind + Capacitor) in a design-first way, without direct code edits."
+argument-hint: "Describe the new BOCT feature to plan."
+
+tools:
+  - 'edit'
+  - 'search/codebase'
+  - 'web/fetch'
+  - 'search/usages'
+  - 'read/terminalLastCommand'
+  - 'agent'
+
+agents:
+  - '*'
+
+user-invocable: true
+disable-model-invocation: false
+
+target: vscode
+
+mcp-servers: []
+---
 
 ## Purpose
 A dedicated Copilot agent for planning, scoping, and designing new features for the Blood on the Clocktower web app (Next.js + TS + Tailwind + Capacitor Android) without editing code directly.

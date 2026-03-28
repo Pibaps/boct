@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useMemo } from "react";
 import { useLang } from "@/context/LangContext";
 import { type GrimoireSession } from "../types";
+import { buildNightWakePlan } from "../nightPlanner";
 import { getUnusedRoles, pickImpBluffs } from "../utils";
 import { characterArtwork } from "@/data/characterArtwork";
 
@@ -38,6 +39,9 @@ const typeLabels: Record<string, { fr: string; en: string }> = {
 
 export default function StorytellerPanel({ session, onUpdateSession }: Props) {
   const { t } = useLang();
+  const wakePlan = useMemo(() => buildNightWakePlan(session), [session]);
+
+  const showSecrets = session.ui.showSecrets;
 
   const unusedRoles = useMemo(
     () => getUnusedRoles(session.edition, session.setup.selectedCharacterIds),
@@ -114,6 +118,10 @@ export default function StorytellerPanel({ session, onUpdateSession }: Props) {
     }));
   };
 
+  const wakePlanLabel = wakePlan.isFirstNight
+    ? t("Première nuit", "First night")
+    : t(`Nuit ${wakePlan.nightNumber}`, `Night ${wakePlan.nightNumber}`);
+
   return (
     <section
       className="rounded-xl p-3.5 md:p-4 space-y-3.5 overflow-x-hidden min-w-0"
@@ -183,6 +191,123 @@ export default function StorytellerPanel({ session, onUpdateSession }: Props) {
                 <span>{t(role.nameFr, role.nameEn)}</span>
               </button>
             ))
+          )}
+        </div>
+      </div>
+
+      <div className="rounded-xl p-3" style={{ background: "rgba(10,5,6,0.35)", border: "1px solid rgba(201,168,76,0.1)" }}>
+        <div className="flex items-start justify-between gap-2 mb-2.5 flex-wrap">
+          <div className="min-w-0">
+            <p className="text-cinzel text-xs uppercase tracking-widest" style={{ color: "#8a7a6b" }}>
+              {t("Ordre de réveil", "Wake order")}
+            </p>
+            <p className="text-baskerville text-xs mt-1" style={{ color: "#6f655c" }}>
+              {t(
+                `Proposition calculée pour ${wakePlanLabel}.`,
+                `Computed proposal for ${wakePlanLabel}.`
+              )}
+            </p>
+          </div>
+          <span className="rounded-full px-2.5 py-1 text-[10px] uppercase tracking-widest" style={{ background: "rgba(139,0,0,0.16)", border: "1px solid rgba(139,0,0,0.22)", color: "#f4ebd0" }}>
+            {wakePlan.steps.length}
+          </span>
+        </div>
+
+        <div className="max-h-[22rem] overflow-y-auto pr-1 space-y-2" style={{ scrollbarWidth: "thin" }}>
+          {wakePlan.steps.length === 0 ? (
+            <p className="text-baskerville text-sm py-2" style={{ color: "#6f655c" }}>
+              {t("Aucun réveil nocturne prévu pour cette nuit.", "No night wake is scheduled for this night.")}
+            </p>
+          ) : (
+            wakePlan.steps.map((step) => {
+              const isSkipped = step.status === "skipped";
+              const iconSrc = step.characterId ? characterArtwork[step.characterId] : "";
+
+              if (step.kind === "group") {
+                return (
+                  <div
+                    key={step.id}
+                    className="rounded-xl p-3 flex items-start gap-3"
+                    style={{
+                      background: "rgba(82,30,30,0.28)",
+                      border: "1px solid rgba(244,67,54,0.18)",
+                    }}
+                  >
+                    <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full" style={{ background: "rgba(244,67,54,0.15)", border: "1px solid rgba(244,67,54,0.28)", color: "#ffb7b7" }}>
+                      <span className="text-xs font-bold">!</span>
+                    </div>
+
+                    <div className="min-w-0 flex-1">
+                      <div className="flex items-start justify-between gap-2">
+                        <p className="text-cinzel text-sm font-semibold" style={{ color: "#ffdfdf" }}>
+                          {t("Réveil du camp du mal", "Evil team wake")}
+                        </p>
+                        <span className="rounded-full px-2 py-0.5 text-[10px] uppercase tracking-widest" style={{ background: "rgba(244,67,54,0.14)", border: "1px solid rgba(244,67,54,0.18)", color: "#ffb7b7" }}>
+                          {t("Groupe", "Group")}
+                        </span>
+                      </div>
+
+                      <p className="mt-1 text-baskerville text-xs leading-relaxed" style={{ color: "#ffb7b7" }}>
+                        {t(step.actionFr, step.actionEn)}
+                      </p>
+                    </div>
+                  </div>
+                );
+              }
+
+              return (
+                <div
+                  key={step.id}
+                  className="rounded-xl p-2.5 flex items-start gap-3"
+                  style={{
+                    background: isSkipped ? "rgba(82,30,30,0.35)" : "rgba(20,8,13,0.45)",
+                    border: `1px solid ${isSkipped ? "rgba(244,67,54,0.18)" : "rgba(139,0,0,0.15)"}`,
+                  }}
+                >
+                  <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-[11px] font-bold" style={{ background: "rgba(139,0,0,0.2)", border: "1px solid rgba(201,168,76,0.18)", color: "#f4ebd0" }}>
+                    {step.seat}
+                  </div>
+
+                  <div className="relative h-10 w-10 shrink-0 overflow-hidden rounded-xl" style={{ background: "rgba(10,5,6,0.72)", border: "1px solid rgba(100,100,100,0.18)" }}>
+                    {iconSrc ? (
+                      <Image src={iconSrc} alt={step.characterNameEn ?? step.playerName} fill sizes="40px" className="object-cover" />
+                    ) : (
+                      <div className="flex h-full w-full items-center justify-center text-[11px] font-bold uppercase" style={{ color: "#c9a84c" }}>
+                        {step.playerName.slice(0, 2)}
+                      </div>
+                    )}
+                  </div>
+
+                  <div className="min-w-0 flex-1">
+                    <div className="flex items-start justify-between gap-2">
+                      <div className="min-w-0">
+                        <p className="text-cinzel text-sm font-semibold truncate" style={{ color: isSkipped ? "#ffcdcd" : "#f4ebd0" }}>
+                          {showSecrets ? step.playerName : t("Joueur secret", "Hidden player")}
+                        </p>
+                        <p className="text-baskerville text-xs truncate" style={{ color: "#8a7a6b" }}>
+                          {showSecrets ? (step.characterNameFr && step.characterNameEn ? t(step.characterNameFr, step.characterNameEn) : "") : t("Rôle secret", "Hidden role")}
+                        </p>
+                      </div>
+
+                      <span className="rounded-full px-2 py-0.5 text-[10px] uppercase tracking-widest" style={{ background: isSkipped ? "rgba(244,67,54,0.14)" : "rgba(201,168,76,0.12)", border: `1px solid ${isSkipped ? "rgba(244,67,54,0.18)" : "rgba(201,168,76,0.18)"}`, color: isSkipped ? "#ffb7b7" : "#f4ebd0" }}>
+                        {isSkipped ? t("Ignoré", "Skipped") : t("À réveiller", "Wake")}
+                      </span>
+                    </div>
+
+                    <div className="mt-1 space-y-1">
+                      <p className="text-baskerville text-xs leading-relaxed" style={{ color: isSkipped ? "#ffb7b7" : "#c9b891" }}>
+                        {t(step.actionFr, step.actionEn)}
+                      </p>
+                      {isSkipped && (
+                        <p className="text-[11px] uppercase tracking-widest" style={{ color: "#ffb7b7" }}>
+                          {t(step.skipFr, step.skipEn)}
+                        </p>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              );
+            })
           )}
         </div>
       </div>

@@ -13,7 +13,8 @@
     "cap:add:android": "cap add android",
     "cap:sync": "cap sync",
     "cap:open:android": "cap open android",
-    "assets:fetch": "python scripts/fetch_botc_assets.py"
+    "assets:fetch": "python scripts/fetch_botc_assets.py",
+    "roles:fetch": "python scripts/fetch_botc_role_pages.py"
   },
   "dependencies": {
     "@capacitor/android": "^7.4.3",

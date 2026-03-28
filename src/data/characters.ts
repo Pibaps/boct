@@ -14,6 +14,7 @@ export interface Character {
   summaryFr: string;
   firstNight?: boolean;
   otherNights?: boolean;
+  nightOrder?: number;
   icon?: string;
 }
 

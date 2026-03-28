@@ -3,6 +3,7 @@ export type PlayerState = "alive" | "dead" | "executed";
 export type TokenKind = "poisoned" | "drunk" | "protected" | "night-kill" | "custom";
 export type ScriptSlot = "townsfolk" | "outsider" | "minion" | "demon" | "traveller" | "fabled";
 export type GamePhase = "setup" | "night" | "day" | "end";
+export type BoardMode = "table" | "circle";
 
 export interface StorytellerState {
   impBluffIds: string[];
@@ -21,6 +22,7 @@ export interface GrimoireSession {
   ui: {
     currentPhase: GamePhase;
     showSecrets: boolean;
+    boardMode: BoardMode;
     dayNumber: number;
     nightNumber: number;
     storyteller: StorytellerState;

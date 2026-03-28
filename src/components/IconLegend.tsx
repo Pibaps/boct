@@ -55,14 +55,11 @@ export default function IconLegend({ titleFr, titleEn, items }: Props) {
             }}
           >
             <div
-              className={
-                item.icon?.src?.includes("/couteau.png")
-                  ? "relative w-12 h-12 shrink-0 overflow-hidden rounded-full flex items-center justify-center p-2"
-                  : "relative w-11 h-11 shrink-0 overflow-hidden rounded-full flex items-center justify-center p-1"
-              }
+              className="relative w-11 h-11 shrink-0 overflow-hidden rounded-full flex items-center justify-center p-1"
               style={{
                 background: `radial-gradient(circle at 35% 35%, ${item.color}33, rgba(10,5,6,0.95))`,
                 border: `1px solid ${item.color}55`,
+                overflow: "visible",
               }}
             >
               {item.icon ? (
@@ -70,8 +67,9 @@ export default function IconLegend({ titleFr, titleEn, items }: Props) {
                   src={item.icon.src}
                   alt={item.icon.alt}
                   fill
-                  sizes={item.icon?.src?.includes("/couteau.png") ? "48px" : "44px"}
+                  sizes={item.icon?.src?.includes("/couteau.png") || item.icon?.src?.includes("/coeur.png") ? "58px" : "44px"}
                   className="object-contain"
+                  style={item.icon?.src?.includes("/couteau.png") || item.icon?.src?.includes("/coeur.png") ? { transform: "scale(1.5)", transformOrigin: "center" } : undefined}
                 />
               ) : (
                 <span className="text-cinzel text-sm font-bold" style={{ color: item.color }}>

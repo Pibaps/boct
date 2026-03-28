@@ -31,14 +31,11 @@ function TermCard({ term }: { term: GlossaryTerm }) {
       >
         <div className="flex items-center gap-3">
           <div
-            className={
-              term.icon?.src?.includes("/coeur.png")
-                ? "relative w-12 h-12 rounded-full overflow-hidden shrink-0 flex items-center justify-center p-2"
-                : "relative w-10 h-10 rounded-full overflow-hidden shrink-0 flex items-center justify-center p-1"
-            }
+            className="relative w-10 h-10 rounded-full shrink-0 overflow-hidden flex items-center justify-center p-1"
             style={{
               background: term.icon ? "rgba(20,8,13,0.7)" : "rgba(139,0,0,0.15)",
               border: `1px solid ${term.icon ? "rgba(201,168,76,0.2)" : "rgba(139,0,0,0.15)"}`,
+              overflow: "visible",
             }}
           >
             {term.icon ? (
@@ -46,8 +43,9 @@ function TermCard({ term }: { term: GlossaryTerm }) {
                 src={term.icon.src}
                 alt={term.icon.alt}
                 fill
-                sizes={term.icon?.src?.includes("/coeur.png") ? "36px" : "32px"}
+                sizes={term.icon?.src?.includes("/coeur.png") ? "48px" : "32px"}
                 className="object-contain"
+                style={term.icon?.src?.includes("/coeur.png") ? { transform: "scale(1.5)", transformOrigin: "center" } : undefined}
               />
             ) : (
               <span className="text-cinzel text-xs" style={{ color: "#8B0000", fontWeight: 700 }}>

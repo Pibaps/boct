@@ -130,12 +130,12 @@ export default function PlayerCard({
           }}
         />
         <span
-          className={
-            isHeartState
-              ? "relative h-12 w-12 rounded-full overflow-hidden flex items-center justify-center p-2"
-              : "relative h-10 w-10 rounded-full overflow-hidden flex items-center justify-center p-1"
-          }
-          style={{ background: "rgba(20,8,13,0.45)", border: `1px solid ${state.color}55` }}
+          className="relative h-10 w-10 rounded-full overflow-hidden flex items-center justify-center p-0"
+          style={{
+            background: "rgba(20,8,13,0.45)",
+            border: `1px solid ${state.color}55`,
+            overflow: "visible",
+          }}
           title={player.state}
           aria-label={player.state}
         >
@@ -144,8 +144,9 @@ export default function PlayerCard({
               src={state.icon.src}
               alt={state.icon.alt}
               fill
-              sizes={isHeartState ? "28px" : "36px"}
+              sizes={isHeartState ? "48px" : "36px"}
               className="object-contain"
+              style={isHeartState ? { transform: "scale(1.7)", transformOrigin: "center" } : undefined}
             />
           ) : (
             <span className="text-sm" style={{ color: state.color }}>
@@ -197,7 +198,7 @@ export default function PlayerCard({
 
       {/* Tokens */}
       {showSecret && (
-        <div className="flex flex-wrap gap-1 mb-3">
+        <div className="flex flex-wrap gap-2 mb-3">
           {(Object.keys(tokenInfo) as TokenKind[])
             .filter((tk) => tk !== "custom")
             .map((tk) => {
@@ -208,25 +209,29 @@ export default function PlayerCard({
                 <button
                   key={tk}
                   onClick={() => onToggleToken(tk)}
-                  className={`rounded-md transition-all duration-150 ${isMobileBuild ? "min-h-11 px-3 py-2 text-sm" : "px-2 py-1 text-xs"}`}
+                  className={`rounded-md transition-all duration-150 inline-flex items-center gap-2 ${isMobileBuild ? "min-h-[44px] px-4 py-2 text-sm" : "min-h-[34px] px-3 py-1.5 text-xs"}`}
                   style={{
                     background: isActive ? `${info.color}22` : "rgba(20,8,13,0.4)",
                     border: `1px solid ${isActive ? info.color : "rgba(100,100,100,0.15)"}`,
-                    color: isActive ? info.color : "#555",
+                    color: isActive ? info.color : "#c0c0c0",
                   }}
                   title={tokenLabels[info.key]}
+                  aria-label={tokenLabels[info.key]}
                 >
                   {info.image ? (
                     <Image
                       src={info.image}
                       alt={tokenLabels[info.key]}
-                      width={18}
-                      height={18}
+                      width={20}
+                      height={20}
                       className="inline-block"
                     />
                   ) : (
-                    info.icon
+                    <span className="text-lg" aria-hidden="true">{info.icon}</span>
                   )}
+                  <span className="font-semibold truncate" style={{ maxWidth: isMobileBuild ? "120px" : "90px" }}>
+                    {tokenLabels[info.key]}
+                  </span>
                 </button>
               );
             })}
@@ -253,18 +258,16 @@ export default function PlayerCard({
               <span className="inline-flex items-center gap-2">
                 {info.icon ? (
                   <span
-                    className={
-                      info.icon.src.includes("/coeur.png")
-                        ? "relative h-6 w-6 overflow-hidden rounded-full p-1"
-                        : "relative h-5 w-5 overflow-hidden rounded-full p-0.5"
-                    }
+                    className="relative h-5 w-5 overflow-hidden rounded-full p-0"
+                    style={{ overflow: "visible" }}
                   >
                     <Image
                       src={info.icon.src}
                       alt={info.icon.alt}
                       fill
-                      sizes={info.icon.src.includes("/coeur.png") ? "22px" : "20px"}
+                      sizes={info.icon.src.includes("/coeur.png") ? "26px" : "22px"}
                       className="object-contain"
+                      style={info.icon.src.includes("/coeur.png") ? { transform: "scale(1.75)", transformOrigin: "center" } : undefined}
                     />
                   </span>
                 ) : (

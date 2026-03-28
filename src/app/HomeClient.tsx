@@ -798,14 +798,14 @@ export default function HomeClient() {
               },
               {
                 href: "/rules#setup",
-                icon: "/assets/botc/dé.png",
+                icon: "/assets/botc/de.png",
                 iconAlt: "Mise en Place",
                 titleFr: "Mise en Place",
                 titleEn: "Setup",
                 descFr: "Comment préparer une partie de A à Z selon le nombre de joueurs.",
                 descEn: "How to set up a game from scratch based on player count.",
                 accent: "#5c8a5c",
-              },
+              }
             ].map(({ href, icon, iconAlt, titleFr, titleEn, descFr, descEn, accent }, i) => (
               <RevealSection key={href} delay={i * 0.08}>
                 <Link

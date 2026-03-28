@@ -5,8 +5,9 @@ import { useLang } from "@/context/LangContext";
 import { isMobileBuild } from "@/config/buildMode";
 import { allCharacters, editionMeta, type Character } from "@/data/characters";
 import { glossaryIconMap } from "@/data/glossary";
-import { type GrimoireSession, type PlayerEntry, type TokenKind, type PlayerState } from "../types";
+import { type GrimoireSession, type PlayerEntry, type TokenKind, type PlayerState, type BoardMode } from "../types";
 import PlayerTable from "./PlayerTable";
+import CirclePlayerBoard from "./CirclePlayerBoard";
 import PhaseControls from "./PhaseControls";
 import JournalPanel from "./JournalPanel";
 import IconLegend, { type IconLegendItem } from "@/components/IconLegend";
@@ -41,6 +42,7 @@ export default function GrimoireBoard({ session, onUpdateSession, onReset }: Pro
   const [activeRole, setActiveRole] = useState<Character | null>(null);
   const [toasts, setToasts] = useState<ToastItem[]>([]);
   const toastTimers = useRef<Record<string, number>>({});
+  const boardMode = session.ui.boardMode ?? "table";
 
   const legendItems: IconLegendItem[] = useMemo(
     () => [
@@ -248,6 +250,37 @@ export default function GrimoireBoard({ session, onUpdateSession, onReset }: Pro
     });
   };
 
+  const handleSetBoardMode = (nextMode: BoardMode) => {
+    onUpdateSession((prev) => ({
+      ...prev,
+      ui: {
+        ...prev.ui,
+        boardMode: nextMode,
+      },
+    }));
+  };
+
+  const handleMovePlayer = (playerId: string, direction: -1 | 1) => {
+    onUpdateSession((prev) => {
+      const ordered = [...prev.players].sort((a, b) => a.seat - b.seat || a.name.localeCompare(b.name));
+      const index = ordered.findIndex((player) => player.id === playerId);
+      if (index < 0 || ordered.length < 2) return prev;
+
+      const swapIndex = (index + direction + ordered.length) % ordered.length;
+      if (swapIndex === index) return prev;
+
+      [ordered[index], ordered[swapIndex]] = [ordered[swapIndex], ordered[index]];
+
+      return {
+        ...prev,
+        players: ordered.map((player, seatIndex) => ({
+          ...player,
+          seat: seatIndex + 1,
+        })),
+      };
+    });
+  };
+
   const handleAdvancePhase = () => {
     onUpdateSession((prev) => {
       const { currentPhase, dayNumber, nightNumber } = prev.ui;
@@ -358,6 +391,51 @@ export default function GrimoireBoard({ session, onUpdateSession, onReset }: Pro
         </button>
       </div>
 
+      <div
+        className="rounded-xl p-3.5 flex items-center justify-between gap-3 flex-wrap"
+        style={{
+          background: "rgba(20,8,13,0.45)",
+          border: "1px solid rgba(139,0,0,0.15)",
+        }}
+      >
+        <div className="min-w-0">
+          <p className="text-cinzel text-xs uppercase tracking-widest" style={{ color: "#8a7a6b" }}>
+            {t("Mode d'affichage", "View mode")}
+          </p>
+          <p className="text-baskerville text-xs mt-1" style={{ color: "#8a7a6b" }}>
+            {t(
+              "Passez du tableau classique au cercle pour mieux suivre les voisins pendant la partie.",
+              "Switch between the table and the circle to follow neighbours more easily during play."
+            )}
+          </p>
+        </div>
+
+        <div className="inline-flex overflow-hidden rounded-full border" style={{ borderColor: "rgba(139,0,0,0.18)" }}>
+          {([
+            ["table", t("Tableau", "Table")],
+            ["circle", t("Cercle", "Circle")],
+          ] as Array<[BoardMode, string]>).map(([mode, label]) => {
+            const active = boardMode === mode;
+
+            return (
+              <button
+                key={mode}
+                type="button"
+                onClick={() => handleSetBoardMode(mode)}
+                className="px-4 py-2 text-xs text-cinzel transition-all duration-150"
+                style={{
+                  background: active ? "rgba(139,0,0,0.22)" : "rgba(10,5,6,0.4)",
+                  color: active ? "#f4ebd0" : "#8a7a6b",
+                  borderRight: mode === "table" ? "1px solid rgba(139,0,0,0.14)" : "none",
+                }}
+              >
+                {label}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
       <div className="space-y-5 min-w-0">
         <PhaseControls
           phase={session.ui.currentPhase}
@@ -369,15 +447,19 @@ export default function GrimoireBoard({ session, onUpdateSession, onReset }: Pro
           onEndGame={handleEndGame}
         />
 
-        <PlayerTable
-          players={session.players}
-          showSecrets={session.ui.showSecrets}
-          onUpdatePlayer={handleUpdatePlayer}
-          onToggleToken={handleToggleToken}
-          onSetState={handleSetState}
-          onShuffle={handleShuffle}
-          onOpenRole={(characterId) => setActiveRole(allCharacters.find((character) => character.id === characterId) ?? null)}
-        />
+        {boardMode === "table" ? (
+          <PlayerTable
+            players={session.players}
+            showSecrets={session.ui.showSecrets}
+            onUpdatePlayer={handleUpdatePlayer}
+            onToggleToken={handleToggleToken}
+            onSetState={handleSetState}
+            onShuffle={handleShuffle}
+            onOpenRole={(characterId) => setActiveRole(allCharacters.find((character) => character.id === characterId) ?? null)}
+          />
+        ) : (
+          <CirclePlayerBoard players={session.players} showSecrets={session.ui.showSecrets} onMovePlayer={handleMovePlayer} />
+        )}
 
         <StorytellerPanel session={session} onUpdateSession={onUpdateSession} />
 

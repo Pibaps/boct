@@ -35,7 +35,7 @@ export default function GrimoirePage() {
 
       {/* Content */}
       <div className={`md:px-8 ${isMobileBuild ? "px-5 pb-28" : "px-5 pb-24"}`}>
-        <div className="max-w-3xl mx-auto">
+        <div className="max-w-5xl mx-auto">
           <GrimoireClient />
         </div>
       </div>

@@ -4,7 +4,7 @@ const ACTIVE_SESSION_KEY = "botc-grimoire-v2-active";
 const SESSIONS_KEY = "botc-grimoire-v2-sessions";
 const LEGACY_STORAGE_KEY = "botc-grimoire-v1";
 const LEGACY_BACKUP_STORAGE_KEY = "botc-grimoire-v1-backup";
-const CURRENT_VERSION = 3;
+const CURRENT_VERSION = 4;
 
 export function loadGrimoire(): GrimoireSession | null {
   if (typeof window === "undefined") return null;
@@ -159,6 +159,7 @@ function migrate(old: GrimoireSession): GrimoireSession {
     },
     ui: {
       ...old.ui,
+      boardMode: old.ui?.boardMode ?? "table",
       storyteller: old.ui?.storyteller ?? { impBluffIds: [] },
     },
   });
@@ -175,6 +176,7 @@ function normalizeSession(session: GrimoireSession): GrimoireSession {
     },
     ui: {
       ...session.ui,
+      boardMode: session.ui?.boardMode ?? "table",
       storyteller: session.ui?.storyteller ?? { impBluffIds: [] },
     },
   };
