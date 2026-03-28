@@ -7,7 +7,7 @@
     "build": "next build",
     "build:mobile": "node scripts/build-mobile.mjs",
     "build:android:debug": "npm run build:mobile && npx cap sync android && cd android && .\\gradlew.bat assembleDebug --parallel --build-cache --configuration-cache",
-    "build:android:fast": "cd android && .\\gradlew.bat assembleDebug --parallel --build-cache --configuration-cache",
+    "build:android:fast": "npm run build:mobile && npx cap sync android && cd android && .\\gradlew.bat assembleDebug --parallel --build-cache --configuration-cache",
     "start": "next start",
     "lint": "eslint",
     "cap:add:android": "cap add android",
